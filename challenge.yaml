@@ -1,0 +1,7 @@
+slug: sqli-auth-bypass
+title: Login Bypass
+category: sql injection
+difficulty: easy
+points: 200
+codec: xorb64
+repo_url: https://github.com/picoclone/sqli-auth-bypass
